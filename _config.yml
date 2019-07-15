@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: '/'
 domain_name: 'https://sysadminstuff.io'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
