@@ -3,7 +3,7 @@ description: A blog about things I do
 meta_description: "A blog about things I do."
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: '/'
