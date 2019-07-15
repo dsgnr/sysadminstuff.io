@@ -1,0 +1,6 @@
+{% include header.html %}
+<body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
+
+    {{ content }}
+
+{% include footer.html %}

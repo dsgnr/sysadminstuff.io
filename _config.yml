@@ -1,0 +1,18 @@
+title: sysadminstuff.io
+description: A blog about things I do
+meta_description: "A blog about things I do."
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://sysadminstuff.io'
+google_analytics: 'UA-XXXXXXXX-X'
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://sysadminstuff.io'
+author:         'Dan'
+author_avatar: '/assets/images/daniel-hand-gravatar.jpg'
+author_description: 'I am a coffee lover and Linux Automation Engineer from England.'
